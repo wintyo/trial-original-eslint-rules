@@ -5,5 +5,6 @@ module.exports = {
   plugins: ['eslint-plugin-local-rules'],
   rules: {
     'local-rules/no-hoge': 'error',
+    'local-rules/no-setter': 'error',
   },
 };
