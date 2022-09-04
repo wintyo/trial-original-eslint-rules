@@ -1,0 +1,13 @@
+{
+  "name": "trial-original-eslint-plugin",
+  "version": "0.0.0",
+  "scripts": {},
+  "author": "wintyo <wintyo1024@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.23.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-rulesdir": "^0.2.1"
+  }
+}
