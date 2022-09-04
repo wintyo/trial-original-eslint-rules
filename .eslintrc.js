@@ -17,5 +17,6 @@ module.exports = {
         Emit: 'Emitデコレータは使わずVue2の$emitを使用してください。',
       },
     ],
+    'local-rules/no-upper-case-member': 'error',
   },
 };
